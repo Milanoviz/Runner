@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23b9beac65104e86b4bee29ab6660643, type: 3}
+  m_Name: CoinsConfig
+  m_EditorClassIdentifier: 
+  _dataModel:
+    _coinTemplate: {fileID: 3101292673643697801, guid: d09daca5e93d3f9409b26dd3a1661012, type: 3}
+    _coinsLineCountInRoadSection: 4
+    _distanceBetweenCoinsLine: 5
+    _lineOffset: 3
+    _coinHeight: 1
